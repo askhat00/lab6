@@ -1,0 +1,2 @@
+
+The Bank Customer Churn dataset contains customer information from a bank, including demographic and financial attributes. Features include credit score, age, tenure, account balance, number of products, estimated salary, geography, and gender. The target variable is `Exited`, which indicates whether a customer has churned (1) or not (0).
